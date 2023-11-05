@@ -1,4 +1,5 @@
-# funlang
+# LLPL
+(= LispLikeProgrammingLanguage)
 Interpreted array-oriented programming language
 
 ## Examples
